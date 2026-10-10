@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Failed page</title>
+<title> Registration Form Failed page</title>
 </head>
 <body>
 	<h1>Failed</h1>
