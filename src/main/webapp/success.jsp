@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Success page</title>
+<title>Registration FormS uccess page</title>
 </head>
 <body>
 	<h1>Success</h1>
