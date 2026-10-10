@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>failed page</title>
+<title>Failed page</title>
 </head>
 <body>
 	<h1>Failed</h1>
