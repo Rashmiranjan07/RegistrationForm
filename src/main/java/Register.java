@@ -23,7 +23,6 @@ public class Register extends HttpServlet {
 		model.setEmail(email);
 		model.setpassword(password);
 		model.setUcity(ucity);
-		
 
 		int row = model.register();
 		HttpSession session = request.getSession();
