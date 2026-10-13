@@ -24,7 +24,6 @@ A Java-based web application built using JSP and Servlets to handle user registr
 - **Frontend:** JSP, HTML, CSS
 - **Backend:** Java Servlets
 - **Database Connectivity:** JDBC
-- **Database:** MySQL (if configured)
 - **Server:** Apache Tomcat
 
 ## ⚙️ Getting Started
@@ -32,7 +31,6 @@ A Java-based web application built using JSP and Servlets to handle user registr
 **Prerequisites**
 - JDK
 - Apache Tomcat
-- MySQL (if configured)
 
 **1. Clone the repository**
 ```bash
@@ -49,8 +47,7 @@ git clone https://github.com/Rashmiranjan07/RegistrationForm.git
 
 **Rashmiranjan Shaw**
 
-[GitHub](https://github.com/Rashmiranjan07) · [Portfolio](https://rashmiranjan07.github.io/Portfolio/)
-
+[GitHub](https://github.com/Rashmiranjan07) 
 ---
 
 <p align="center">
