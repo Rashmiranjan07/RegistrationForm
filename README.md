@@ -1,34 +1,49 @@
 # 📝 Registration Form
 
-A clean and user-friendly registration form designed to demonstrate form design, user input handling, and client-side validation.
+A Java-based web application built using JSP and Servlets to handle user registration and server-side form processing, demonstrating Java web development and database connectivity.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JSP-View%20Layer-blue?style=for-the-badge" alt="JSP" />
+  <img src="https://img.shields.io/badge/Servlet-Controller-6DB33F?style=for-the-badge" alt="Servlet" />
+  <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-4479A1?style=for-the-badge" alt="JDBC" />
+  <img src="https://img.shields.io/badge/MySQL-Database-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ## ✨ Features
 
-- Clean and intuitive form interface
-- Structured user input fields
-- Form validation and input handling
-- Responsive design (if implemented)
+- User registration through a JSP-based interface
+- Server-side request processing using Java Servlets
+- Database connectivity using JDBC
+- Form data handling and validation
+- Dynamic web page rendering with JSP
 
 ## 🛠 Tech Stack
 
-- **HTML5** — Structure
-- **CSS3** — Styling and layout
-- **JavaScript** — Form interactions and validation
+- **Language:** Java
+- **Frontend:** JSP, HTML, CSS
+- **Backend:** Java Servlets
+- **Database Connectivity:** JDBC
+- **Database:** MySQL (if configured)
+- **Server:** Apache Tomcat
 
-## 🚀 Getting Started
+## ⚙️ Getting Started
 
+**Prerequisites**
+- JDK
+- Apache Tomcat
+- MySQL (if configured)
+
+**1. Clone the repository**
 ```bash
 git clone https://github.com/Rashmiranjan07/RegistrationForm.git
-cd RegistrationForm
 ```
 
-Open `index.html` in your browser to run the project, if that is the entry-point file.
+**2. Import the project** into Eclipse or another compatible Java IDE.
+
+**3. Configure the database** connection and credentials if your project uses MySQL.
+
+**4. Run the application** on Apache Tomcat and open it in your browser.
 
 ## 👨‍💻 Author
 
@@ -39,5 +54,5 @@ Open `index.html` in your browser to run the project, if that is the entry-point
 ---
 
 <p align="center">
-  <i>Simple UI. Better validation. Continuous learning.</i>
+  <i>Learning Java Web Development, one project at a time.</i>
 </p>
